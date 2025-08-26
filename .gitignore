@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# local env
+.env*
+!.env.example
+
+# misc
+.DS_Store
+.vscode/
